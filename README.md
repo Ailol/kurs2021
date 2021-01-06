@@ -18,9 +18,9 @@ Dette repositoriet er ment for deling av kursmateriale for _Introduksjonskurs i 
 Kurset er delt opp i 4 moduler. Starter med enkel matte oppgaver, hvor vi gradvis jobber mot å lage et tekstbasert spill og små enkle programmer. 
 
 - **Matte oppgaver** 
-	  [![Matte](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ailol/kurs2021/9b83b28a4fa096fc9c08ac9804649d0230a146f9?filepath=1.Matte.ipynb)
+	  [![Matte](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ailol/kurs2021/eeecac350c860bde4677221c2c287717c63480b0?filepath=1.Matte.ipynb)
 - **if-else oppgaver**
-	  [![if-else](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ailol/kurs2021/9b83b28a4fa096fc9c08ac9804649d0230a146f9?filepath=2.IfTester.ipynb)
+	  [![if-else](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ailol/kurs2021/eeecac350c860bde4677221c2c287717c63480b0?filepath=2.IfTester.ipynb)
 - **Spill  Oppgaver**	[![Matte](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ailol/kurs2021/9b83b28a4fa096fc9c08ac9804649d0230a146f9?filepath=3.Spill.ipynb) 
 - **Celsius Oppgaver** 
  	[![Matte](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ailol/kurs2021/9b83b28a4fa096fc9c08ac9804649d0230a146f9?filepath=4.celsius.ipynb)
