@@ -3,7 +3,7 @@
 
 # Kurs: Programmering i Python
 
-Dette repositoriet er ment for deling av kursmateriale for _Introduksjonskurs i Python-programmering_, som arrangeres av Nordslettas v/Jan Ailo Nordsletta. All kursmateriale ligger inn i inne på jupyter notebook. 
+Dette repositoriet er ment for deling av kursmateriale for _Introduksjonskurs i Python-programmering_, som arrangeres av Nordslettas v/Jan Ailo Nordsletta.
 
 
 |                    | Språk   | Læringsmål:                                                                                                                                                                                                                 |
