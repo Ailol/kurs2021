@@ -20,7 +20,7 @@ Kurset er delt opp i 4 moduler. Starter med enkel matte oppgaver, hvor vi gradvi
 - **Matte oppgaver** 
 	  [![Matte](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ailol/kurs2021/eeecac350c860bde4677221c2c287717c63480b0?filepath=1.Matte.ipynb)
 - **if-else oppgaver**
-	  [![if-else](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ailol/kurs2021/eeecac350c860bde4677221c2c287717c63480b0?filepath=2.IfTester.ipynb)
+	  [![if-else](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ailol/kurs2021/12f4f5947874cf4dfe4c0ac6e7ad1f8e75974692?filepath=2.IfTester.ipynb)
 - **Spill  Oppgaver**	[![Matte](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ailol/kurs2021/eeecac350c860bde4677221c2c287717c63480b0?filepath=3.Spill.ipynb) 
 - **Celsius Oppgaver** 
  	[![Matte](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ailol/kurs2021/eeecac350c860bde4677221c2c287717c63480b0?filepath=4.celsius.ipynb)
